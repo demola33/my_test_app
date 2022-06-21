@@ -1,16 +1,13 @@
 # my_test_app
 
-A new Flutter project.
+A minimal Flutter UI mock up design for a short test. Built with Flutter/Dart
 
-## Getting Started
+Some screenshots
 
-This project is a starting point for a Flutter application.
+![home](https://user-images.githubusercontent.com/75575159/174825389-43c9f3e6-a097-4bb9-aa77-65315ab6195b.png)
 
-A few resources to get you started if this is your first Flutter project:
+![purchase](https://user-images.githubusercontent.com/75575159/174825676-64893449-f3c1-4404-93cf-63cab4044cd1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![payment](https://user-images.githubusercontent.com/75575159/174827323-0a3aa387-0397-454c-8ab4-87dc69f956dd.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
